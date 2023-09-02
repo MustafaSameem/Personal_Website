@@ -21,7 +21,7 @@ function Header() {
           <p className="white-text">
             I'm a software engineering student specialized in developing optimized
             <br />and scalable applications for end users. Based in
-            <span className="orange-text"> Montreal, QC</span>.
+            <span> Montreal, QC</span>.
           </p>
         </div>
       </header>
