@@ -1,8 +1,4 @@
 import React from 'react';
-import About from './About.js';
-import Experience from './Experience.js';
-import Projects from './Projects.js';
-import Contact from './Contact.js';
 import './Header.css';
 
 function Header() {
@@ -10,10 +6,10 @@ function Header() {
       <header className="header">
         <div className="nav"> {/* Wrap the navigation elements */}
           <ul>
-            <li className="nav-item"><a href="#about">About</a></li>
-            <li className="nav-item"><a href="#experience">Experience</a></li>
-            <li className="nav-item"><a href="#projects">Projects</a></li>
-            <li className="nav-item"><a href="#contact">Contact</a></li>
+            <li className="nav-item"><a href="#about"><span>[1]</span> About</a></li>
+            <li className="nav-item"><a href="#experience"><span>[2]</span> Experience</a></li>
+            <li className="nav-item"><a href="#projects"><span>[3]</span> Projects</a></li>
+            <li className="nav-item"><a href="#contact"><span>[4]</span> Contact</a></li>
           </ul>
         </div>
         
@@ -27,19 +23,6 @@ function Header() {
             <br />and scalable applications for end users. Based in
             <span className="orange-text"> Montreal, QC</span>.
           </p>
-        </div>
-        
-        <div>
-          <About/>
-        </div>
-        <div>
-          <Experience/>
-        </div>
-        <div>
-          <Projects/>
-        </div>
-        <div>
-          <Contact/>
         </div>
       </header>
     );
