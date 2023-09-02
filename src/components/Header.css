@@ -1,0 +1,83 @@
+/* Set a fixed background color for the entire page */
+body {
+    background-color: #011824;
+  }
+
+
+/* Header.css */
+.header {
+    background-color: #011824;
+    color: #fff;
+  }
+  
+  .nav {
+    list-style: none;
+    padding: 20px;
+    padding-right: 30px;
+  }
+  
+  .nav-item {
+    display: inline;
+    float: right;
+    padding-right: 20px;
+  }
+  
+  /* Style each nav-item as a button */
+  .nav-item a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #011824;
+    padding: 8px 16px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Change button background-color on hover */
+  .nav-item a:hover {
+    background-color: #f16f32;
+    color: #fff;
+  }
+  
+  /* Introduction text */
+  .intro {
+    margin-left: 400px;
+    margin-top: 150px; /* Add margin for spacing below the navbar */
+  }
+  
+  .intro p {
+    font-size: 16px; /* Adjust the font size for the first and third lines */
+    margin-left: 5px;
+  }
+  
+  .intro h1 {
+    font-size: 80px; /* Set the font size for the name */
+    margin: 0px ; /* Add spacing above and below the name */
+  }
+
+  .intro .larger-text {
+    font-size: 24px; /* Adjust the font size for the third line as desired */
+  }
+  
+
+
+
+
+
+  /* Define the animation */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  /* Apply the animation to the h1 element */
+  h1 {
+    font-size: 24px;
+    margin: 0;
+    animation: fadeIn 3.5s ease; /* Apply the "fadeIn" animation */
+  }
+  
