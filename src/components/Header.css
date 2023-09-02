@@ -37,16 +37,15 @@ body {
   background-color: #f16f32;
 }
 
+.margin {
+  color: orange;
+  margin-left: 5px;
+}
+
 .intro {
   padding: 20px;
   margin-top: 150px;
   margin-left: 16%;
-}
-
-.intro p, span{
-  font-size: 16px;
-  color: orange;
-  opacity: 1.0;
 }
 
 .intro h1 {
@@ -55,13 +54,18 @@ body {
 }
 
 .intro .larger-text {
-  font-size: 40px;
+  font-size: 60px;
   opacity: 0.7;
 }
 
 .intro .white-text {
   color: white;
   opacity: 0.7;
+  margin-left: 3px;
+}
+
+.intro .orange-text {
+  color: orange;
 }
 
 

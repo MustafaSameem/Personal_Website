@@ -14,7 +14,7 @@ function Header() {
         </div>
         
         <div className="intro">
-          <p>Hello, my name is</p>
+          <p className="margin">Hello, my name is</p>
           <h1>Mustafa Sameem.</h1>
           <h1 className="larger-text">Problem-solving is my daily task</h1>
           
