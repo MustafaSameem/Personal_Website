@@ -9,3 +9,11 @@
     font-size: 16px;
     color: white;
   }
+
+  .orange-link {
+    color: orange;
+  }
+
+  .orange-link:hover {
+    color: red;
+  }

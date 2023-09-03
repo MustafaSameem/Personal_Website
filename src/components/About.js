@@ -10,7 +10,7 @@ function About() {
           <br/>I could explore with my first programming class eventually lead me here.
         </p>
 
-        <p>I have completed a 2-term internship at <span>National Research Council Canada</span> and I am very familiar 
+        <p>I have completed a 2-term internship at <span><a href="https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/automotive-surface-transportation-research-centre" className="orange-link" target="_blank">National Research Council Canada</a></span> and I am very familiar 
           <br/>with using <span>Python</span> and <span>C++</span> for performance and efficiency. I am also highly skilled in web development, 
           <br/>utilizing <span>HTML</span>, <span>CSS</span>, <span>JavaScript</span>, <span>JSX</span>, and <span>ReactJs</span>.
         </p>
