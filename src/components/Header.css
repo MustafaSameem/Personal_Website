@@ -37,13 +37,10 @@ body {
   background-color: #f16f32;
 }
 
-.margin {
-  color: orange;
-  margin-left: 5px;
-}
-
 .intro p, span {
   color: orange;
+  margin-left: 5px;
+  font-size: 16px;
 }
 
 .intro {
@@ -57,7 +54,7 @@ body {
   margin: 0px;
 }
 
-.intro .larger-text {
+.intro .smaller-text {
   font-size: 55px;
   opacity: 0.5;
 }

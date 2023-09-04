@@ -14,15 +14,10 @@ function Header() {
         </div>
         
         <div className="intro">
-          <p className="margin">Hello, my name is</p>
+          <p>Hello, my name is</p>
           <h1>Mustafa Sameem.</h1>
-          <h1 className="larger-text">Problem-solving is my daily task</h1>
-          
-          <p className="white-text">
-            I'm a software engineering student specialized in developing optimized
-            <br />and scalable applications for end users. Based in
-            <span> Montreal, QC</span>.
-          </p>
+          <h1 className="smaller-text">Problem-solving is my daily task</h1>
+          <p className="white-text"> Based in<span>Montreal, QC</span>.</p>
         </div>
       </header>
     );
