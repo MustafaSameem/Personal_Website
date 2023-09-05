@@ -1,13 +1,14 @@
 .about {
-    margin-top: 600px;
+    margin-top: 400px;
     margin-left: 20%;
-    font-size: 14px;
+    font-size: 18px;
     color: white;
   }
 
   .about p {
     font-size: 16px;
     color: white;
+    opacity: 0.7;
   }
 
   .orange-link {

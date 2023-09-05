@@ -1,6 +1,38 @@
 .experience {
-    margin-top: 600px;
+    margin-top: 400px;
     margin-left: 20%;
-    font-size: 14px;
+    font-size: 18px;
     color: white;
   }
+
+h2 {
+  padding-left: 40px;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.place {
+  color: orange;
+  font-size: 20px
+}
+
+.date {
+  padding-left: 40px;
+  margin-top: 0;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+.experience ul {
+  list-style-position: inside;
+}
+
+.experience li {
+  margin-bottom: 30px;
+  font-size: 16px;
+  opacity: 0.7;
+}
+
+.experience ul li::marker {
+  color: orange;
+}
