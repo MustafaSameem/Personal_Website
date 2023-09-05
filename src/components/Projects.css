@@ -5,19 +5,19 @@
     color: white;
   }
 
-  h2 {
+  .projects h2 {
     padding-left: 40px;
     font-size: 20px;
     margin-bottom: 0;
   }
 
-  p {
+  .projects p {
     padding-left: 40px;
     margin-top: 0;
     font-size: 14px;
     opacity: 0.8;
   }
 
-  span {
+  .projects span {
     color: orange;
   }

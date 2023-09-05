@@ -5,13 +5,13 @@
     color: white;
   }
 
-h2 {
+.experience h2 {
   padding-left: 40px;
   font-size: 20px;
   margin-bottom: 0;
 }
 
-p {
+.experience p {
   padding-left: 40px;
   margin-top: 0;
   font-size: 14px;
