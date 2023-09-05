@@ -11,16 +11,16 @@ h2 {
   margin-bottom: 0;
 }
 
-.place {
-  color: orange;
-  font-size: 20px
-}
-
-.date {
+p {
   padding-left: 40px;
   margin-top: 0;
   font-size: 14px;
   opacity: 0.8;
+}
+
+.place {
+  color: orange;
+  font-size: 20px
 }
 
 .experience ul {

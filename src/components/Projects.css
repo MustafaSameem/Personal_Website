@@ -4,3 +4,20 @@
     font-size: 18px;
     color: white;
   }
+
+  h2 {
+    padding-left: 40px;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+
+  p {
+    padding-left: 40px;
+    margin-top: 0;
+    font-size: 14px;
+    opacity: 0.8;
+  }
+
+  span {
+    color: orange;
+  }
