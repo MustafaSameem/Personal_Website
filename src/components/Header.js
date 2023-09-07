@@ -16,7 +16,7 @@ function Header() {
         <div className="intro">
           <p>Hello, my name is</p>
           <h1>Mustafa Sameem.</h1>
-          <h1 className="smaller-text">Problem-solving is my daily task</h1>
+          <h1 className="smaller-text">Software Engineer</h1>
           <p className="white-text"> Based in<span>Montreal, QC</span>.</p>
         </div>
       </header>
