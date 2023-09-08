@@ -9,7 +9,7 @@ function About() {
           <br/>developing optimized and scalable applications for end users. 
         </p>
 
-        <p>I have completed a 2-term internship at<span>National Research Council Canada</span>, during which I gained significant experience
+        <p>I completed a 2-term internship at<span>National Research Council Canada</span>, during which I gained significant experience
           <br/>in using<span>Python</span> and<span>C++</span> for performance and efficiency. 
         </p>
         <p>
