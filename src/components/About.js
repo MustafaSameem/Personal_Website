@@ -5,7 +5,7 @@ function About() {
     return (
       <div className="about">
         <h1 id="about">About Me <span>[1]</span></h1>
-        <p>I am currently a third-year student pursuing my Bachelor's degree in<span>Software Engineering</span> and I am specialized in
+        <p>I am currently a third-year student pursuing my B.Eng. in<span>Software Engineering</span> and I am specialized in
           <br/>developing optimized and scalable applications for end users. 
         </p>
 
@@ -13,7 +13,7 @@ function About() {
           <br/>in using<span>Python</span> and<span>C++</span> for performance and efficiency. 
         </p>
         <p>
-          I am also highly skilled in web development, utilizing<span>HTML</span>,<span>CSS</span>,<span>JavaScript</span>,<span>JSX</span>, and<span>ReactJs</span>.
+          I am also highly skilled in web development, utilizing<span>HTML</span>,<span>CSS</span>,<span>JavaScript</span>,<span>NodeJs</span>, and<span>ReactJs</span>.
         </p>
       </div>
     );
