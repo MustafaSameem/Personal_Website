@@ -1,4 +1,4 @@
-# Personal Website
+# Personal Website (mustafasameem.com)
 
 ## About
 Welcome to my personal website! I'm Mustafa Sameem, a passionate third-year Software Engineering student based in Montreal.
