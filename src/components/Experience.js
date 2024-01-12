@@ -11,7 +11,7 @@ function Experience() {
         <p className="date">January - August 2023</p>
 
         <ul>
-          <li>Developed a corporate website integrating advanced mathematical algorithms using Pymeshlab to automate STL mesh
+          <li>Developed a corporate website integrating advanced mathematical algorithms using Pymeshlab to automate STL
           <br/>mesh operations for heat transfer simulations, resulting in the discovery of alternate optimized models</li>
           <li>Leveraged Python's multi-threading capabilities to concurrently execute Flask's server, Pyvista for real-time 
           <br/>mesh visualization, and Gmsh for surface decomposition, achieving 100x speed improvements</li>
