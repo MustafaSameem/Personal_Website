@@ -11,14 +11,14 @@ function Experience() {
         <p className="date">January - August 2023</p>
 
         <ul>
-          <li>Developed a corporate website integrating advanced algorithms using Pymeshlab explored in my research to 
-          <br/>automate STL mesh operations for heat transfer simulations, and achieved 50x faster speeds than manual methods</li>
+          <li>Developed a corporate website integrating advanced mathematical algorithms using Pymeshlab to automate STL mesh
+          <br/>mesh operations for heat transfer simulations, resulting in the discovery of alternate optimized models</li>
           <li>Leveraged Python's multi-threading capabilities to concurrently execute Flask's server, Pyvista for real-time 
-          <br/>mesh visualization, and Gmsh for surface decomposition, resulting in improved dynamic meshing efficiency</li>
-          <li>Employed GitLab for version control, isolated projects using Python virtual environments, completed tasks in 
-          <br/>Unix/Linux via MSYS and Mingw64, and ensured code quality through rigorous testing, enhancing project scalability</li>
-          <li>Researched mesh optimization, smoothing, remeshing, boolean transformations, and more through literature 
-          <br/>review, presented findings weekly, and collaborated on a novel additive manufacturing process with supervisors</li>
+          <br/>mesh visualization, and Gmsh for surface decomposition, achieving 100x speed improvements</li>
+          <li>Employed GitLab for version control, isolated projects using virtual environments, completed tasks in 
+          <br/>Linux via MSYS and Mingw64, and ensured code quality through rigorous testing, enhancing project scalability</li>
+          <li>Conducted literature reviews on mesh optimization, smoothing, remeshing and boolean transformations,
+          <br/>presented weekly findings and actively collaborated on an innovative manufacturing process</li>
         </ul>
       </div>
     );
