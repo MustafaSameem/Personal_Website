@@ -6,18 +6,17 @@ function Experience() {
     <div className="experience">
       <h1 id="experience">Work Experience <span>[2]</span></h1>
       
-      <h2>Software Engineer CO-OP @<span className ="place"><a href="https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/automotive-surface-transportation-research-centre" 
+      <h2>Software Engineer Intern R&D Automotive & Transportation @<span className ="place"><a href="https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/automotive-surface-transportation-research-centre" 
           className="orange-link" target="_blank" rel="noreferrer">National Research Council Canada</a></span></h2>
       <p className="date">January - August 2023</p>
 
       <ul>
-        <li>Developed a scientific application, enabling 7 researchers to experiment with 3D meshed geometries.</li>
-        <li>Integrated advanced features using open-source APIs and conducted literature review on mesh research papers.</li>
-        <li>Incorporated multi-threading for real-time 3D visualization with PyVista, enhancing user interaction.</li>
-        <li>Achieved a 150x speed improvement in heat transfer simulations using Python, NumPy, C++, Flask, and JavaScript.</li>
-        <li>Implemented an algorithm with PyMesh leading to a 19% volume retention while maintaining structural integrity.</li>
-        <li>Completed tasks in Linux with virtual environments and utilized GitLab for version control.</li>
-        <li>Presented findings weekly to all researchers, engaging in collaborative discussions.</li>
+        <li>Developed a specialized scientific application using Python to help engineering researchers manipulate and study complex 3D geometries, significantly advancing research capabilities.</li>
+        <li>Increased heat transfer simulation speed by 150x through automation using Python, C++, C, Flask, and JS.</li>
+        <li>Cut computational load by 35% by fine-tuning data handling techniques involving 1+ million data points.</li>
+        <li>Implemented multi-threading for real-time interaction with 3D visualization, enhancing user interaction.</li>
+        <li>Integrated cutting-edge research findings and design features from open-source APIs in the application.</li>
+        <li>Employed Pytest for comprehensive software testing and managed project updates with GitLab.</li>
       </ul>
     </div>
   );
