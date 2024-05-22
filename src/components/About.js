@@ -13,7 +13,7 @@ function About() {
           <br/>in using<span>Python</span> and<span>C++</span> for performance and efficiency. 
         </p>
         <p>
-          I am also highly skilled in web development, utilizing <span>TypeScript</span>,<span>JavaScript</span>,<span>NodeJs</span>, and<span>ReactJs</span>, <span>Cloud Technologies</span> and many more.
+          I am also highly skilled in web development, utilizing <span>TypeScript</span>,<span>JavaScript</span>,<span>NodeJs</span>, <span>ReactJs</span>, <span>Cloud Technologies</span> and many more.
         </p>
       </div>
     );
